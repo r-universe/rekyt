@@ -7,3 +7,7 @@
 	path = funrar
 	url = https://github.com/rekyt/funrar
 	shallow = true
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	shallow = true
