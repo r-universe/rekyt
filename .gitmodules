@@ -8,10 +8,8 @@
 	url = https://github.com/rekyt/funrar
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
 	shallow = true
 	registered = false
-	oncran = true
