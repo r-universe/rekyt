@@ -1,11 +1,41 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rekyt/universe
 	shallow = true
 	branch = HEAD
 [submodule "funrar"]
 	path = funrar
 	url = https://github.com/rekyt/funrar
+	shallow = true
+	registered = true
+[submodule "fundiversity"]
+	path = fundiversity
+	url = https://github.com/bisaloo/fundiversity
+	shallow = true
+	registered = true
+[submodule "rromeo"]
+	path = rromeo
+	url = https://github.com/ropensci/rromeo
+	shallow = true
+	registered = true
+[submodule "ecolottery"]
+	path = ecolottery
+	url = https://github.com/frmunoz/ecolottery
+	shallow = true
+	registered = true
+[submodule "rtaxref"]
+	path = rtaxref
+	url = https://github.com/rekyt/rtaxref
+	shallow = true
+	registered = true
+[submodule "bnfimage"]
+	path = bnfimage
+	url = https://github.com/rekyt/bnfimage
+	shallow = true
+	registered = true
+[submodule "fdcoexist"]
+	path = fdcoexist
+	url = https://github.com/Rekyt/fdcoexist
 	shallow = true
 	registered = true
 [submodule "testthat"]

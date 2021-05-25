@@ -2,5 +2,26 @@
   {
     "package": "funrar",
     "oncran": true
+  },
+  {
+    "package": "fundiversity",
+    "oncran": true
+  },
+  {
+    "package": "rromeo",
+    "oncran": true
+  },
+  {
+    "package": "ecolottery",
+    "oncran": true
+  },
+  {
+    "package": "rtaxref"
+  },
+  {
+    "package": "bnfimage"
+  },
+  {
+    "package": "fdcoexist"
   }
 ]
