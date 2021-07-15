@@ -38,6 +38,11 @@
 	url = https://github.com/Rekyt/fdcoexist
 	shallow = true
 	registered = true
+[submodule "funbiogeo"]
+	path = funbiogeo
+	url = https://github.com/FRBCesab/funbiogeo
+	shallow = true
+	registered = true
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
