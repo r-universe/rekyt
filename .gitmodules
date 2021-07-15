@@ -22,6 +22,7 @@
 	path = ecolottery
 	url = https://github.com/frmunoz/ecolottery
 	shallow = true
+	subdir = pkg
 	registered = true
 [submodule "rtaxref"]
 	path = rtaxref
