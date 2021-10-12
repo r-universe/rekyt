@@ -3,11 +3,6 @@
 	url = https://github.com/rekyt/universe
 	shallow = true
 	branch = HEAD
-[submodule "funrar"]
-	path = funrar
-	url = https://github.com/rekyt/funrar
-	shallow = true
-	registered = true
 [submodule "fundiversity"]
 	path = fundiversity
 	url = https://github.com/bisaloo/fundiversity
