@@ -44,8 +44,3 @@
 	url = https://github.com/FRBCesab/funbiogeo
 	shallow = true
 	registered = true
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/r-lib/testthat
-	shallow = true
-	registered = false
