@@ -9,7 +9,7 @@
   },
   {
     "package": "rromeo",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "ecolottery",
