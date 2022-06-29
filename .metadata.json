@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "rromeo",
-    "oncran": false
+    "package": "rromeo"
   },
   {
     "package": "ecolottery",
