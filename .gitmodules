@@ -3,19 +3,19 @@
 	url = https://github.com/rekyt/universe
 	shallow = true
 	branch = HEAD
-[submodule "funrar"]
-	path = funrar
-	url = https://github.com/rekyt/funrar
+[submodule "funbiogeo"]
+	path = funbiogeo
+	url = https://github.com/FRBCesab/funbiogeo
 	shallow = true
 	registered = true
 [submodule "fundiversity"]
 	path = fundiversity
-	url = https://github.com/bisaloo/fundiversity
+	url = https://github.com/Bisaloo/fundiversity
 	shallow = true
 	registered = true
-[submodule "rromeo"]
-	path = rromeo
-	url = https://github.com/ropensci/rromeo
+[submodule "funrar"]
+	path = funrar
+	url = https://github.com/Rekyt/funrar
 	shallow = true
 	registered = true
 [submodule "ecolottery"]
@@ -26,12 +26,12 @@
 	registered = true
 [submodule "rtaxref"]
 	path = rtaxref
-	url = https://github.com/rekyt/rtaxref
+	url = https://github.com/Rekyt/rtaxref
 	shallow = true
 	registered = true
 [submodule "bnfimage"]
 	path = bnfimage
-	url = https://github.com/rekyt/bnfimage
+	url = https://github.com/Rekyt/bnfimage
 	shallow = true
 	registered = true
 [submodule "fdcoexist"]
@@ -39,8 +39,13 @@
 	url = https://github.com/Rekyt/fdcoexist
 	shallow = true
 	registered = true
-[submodule "funbiogeo"]
-	path = funbiogeo
-	url = https://github.com/FRBCesab/funbiogeo
+[submodule "fddimensionality"]
+	path = fddimensionality
+	url = https://github.com/Rekyt/fddimensionality_ms
+	shallow = true
+	registered = true
+[submodule "rromeo"]
+	path = rromeo
+	url = https://github.com/ropensci-archive/rromeo
 	shallow = true
 	registered = true

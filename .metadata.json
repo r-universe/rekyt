@@ -1,14 +1,14 @@
 [
   {
-    "package": "funrar",
-    "oncran": true
+    "package": "funbiogeo"
   },
   {
     "package": "fundiversity",
     "oncran": true
   },
   {
-    "package": "rromeo"
+    "package": "funrar",
+    "oncran": true
   },
   {
     "package": "ecolottery",
@@ -24,6 +24,9 @@
     "package": "fdcoexist"
   },
   {
-    "package": "funbiogeo"
+    "package": "fddimensionality"
+  },
+  {
+    "package": "rromeo"
   }
 ]
