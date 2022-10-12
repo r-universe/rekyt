@@ -10,7 +10,7 @@
 	registered = true
 [submodule "fundiversity"]
 	path = fundiversity
-	url = https://github.com/Bisaloo/fundiversity
+	url = https://github.com/funecology/fundiversity
 	shallow = true
 	registered = true
 [submodule "funrar"]

@@ -4,7 +4,7 @@
   },
   {
     "package": "fundiversity",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "funrar",
