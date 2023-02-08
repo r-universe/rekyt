@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rekyt/universe
+	url = https://github.com/rekyt/rekyt.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "funbiogeo"]
