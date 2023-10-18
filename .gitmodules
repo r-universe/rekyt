@@ -1,51 +1,32 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rekyt/rekyt.r-universe.dev
-	shallow = true
 	branch = HEAD
-[submodule "funbiogeo"]
-	path = funbiogeo
-	url = https://github.com/FRBCesab/funbiogeo
-	shallow = true
-	registered = true
-[submodule "fundiversity"]
-	path = fundiversity
-	url = https://github.com/funecology/fundiversity
-	shallow = true
-	registered = true
-[submodule "funrar"]
-	path = funrar
-	url = https://github.com/Rekyt/funrar
-	shallow = true
-	registered = true
-[submodule "ecolottery"]
-	path = ecolottery
-	url = https://github.com/frmunoz/ecolottery
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "rtaxref"]
-	path = rtaxref
-	url = https://github.com/Rekyt/rtaxref
-	shallow = true
-	registered = true
 [submodule "bnfimage"]
 	path = bnfimage
 	url = https://github.com/Rekyt/bnfimage
-	shallow = true
-	registered = true
+[submodule "ecolottery"]
+	path = ecolottery
+	url = https://github.com/frmunoz/ecolottery
+	subdir = pkg
 [submodule "fdcoexist"]
 	path = fdcoexist
 	url = https://github.com/Rekyt/fdcoexist
-	shallow = true
-	registered = true
 [submodule "fddimensionality"]
 	path = fddimensionality
 	url = https://github.com/Rekyt/fddimensionality_ms
-	shallow = true
-	registered = true
+[submodule "funbiogeo"]
+	path = funbiogeo
+	url = https://github.com/FRBCesab/funbiogeo
+[submodule "fundiversity"]
+	path = fundiversity
+	url = https://github.com/funecology/fundiversity
+[submodule "funrar"]
+	path = funrar
+	url = https://github.com/Rekyt/funrar
 [submodule "rromeo"]
 	path = rromeo
 	url = https://github.com/ropensci-archive/rromeo
-	shallow = true
-	registered = true
+[submodule "rtaxref"]
+	path = rtaxref
+	url = https://github.com/Rekyt/rtaxref
